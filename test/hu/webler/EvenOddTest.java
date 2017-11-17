@@ -20,6 +20,6 @@ class EvenOddTest {
 		assertEquals(test.odd, 1);
 	}
 
-	// írj tesztet bővebb, értelmesebb bemenetre is
+	// irj tesztet bovebb, ertelmesebb bemenetre is
 
 }
